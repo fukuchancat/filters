@@ -1,0 +1,2 @@
+wsl ./filters.sh
+pause
